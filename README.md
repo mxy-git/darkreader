@@ -223,3 +223,32 @@ A simple way to recapitulate all this information is: "restricted domains" exist
 <a href="https://opencollective.com/darkreader/sponsor/8/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/darkreader/sponsor/9/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/9/avatar.svg"></a>
 <a href="https://opencollective.com/darkreader/sponsor/10/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/10/avatar.svg"></a>
+
+
+
+
+
+
+
+
+"env": {
+        7 -    "ANTHROPIC_AUTH_TOKEN": "sk-sp-a72e27e177834610940e861caffb6dd9",
+        8 -    "ANTHROPIC_BASE_URL": "https://coding.dashscope.aliyuncs.com/apps/anthropic",
+        9 -    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-5",
+       10 -    "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5",
+       11 -    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5",
+       12 -    "ANTHROPIC_MODEL": "glm-5",
+       13 -    "ANTHROPIC_REASONING_MODEL": "glm-5",
+       14 -    "API_TIMEOUT_MS": "3000000",
+       15 -    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+       16 -  },
+       17 -  "language": "Chinese",
+       18 -  "model": "glm-5",
+       19 -  "skipDangerousModePermissionPrompt": true
+
+
+
+
+       -  "enableAllProjectMcpServers": true,
+        3 -  "enabledPlugins": {
+        4 -    "superpowers@claude-plugins-official": true
